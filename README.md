@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Dominik!
 
 - I’m interested in sports (volleyball mostly), programming and playing on ukulele! 
-- I’m currently learning React and Django REST Framework
+- I’m currently learning Angular
 - How to reach me: dominik.iwanek@gmail.com
 
 # :construction_worker: My projects:
@@ -11,9 +11,10 @@
 
 
 # :books: Skill highlights:
+* `JavaScript`
 * `python`
 * `django`
-* `JavaScript`
+* `Angular`
 * `React`
 * `bootstrap`
 * `CSS`
