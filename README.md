@@ -11,11 +11,10 @@
 
 
 # :books: Skill highlights:
-* `JavaScript`
+* `JavaScript & TypeScrit`
+* `Angular`
 * `python`
 * `django`
-* `Angular`
 * `React`
-* `bootstrap`
 * `CSS`
 * `HTML`
